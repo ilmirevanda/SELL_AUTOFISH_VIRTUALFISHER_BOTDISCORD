@@ -1,0 +1,33 @@
+=======================================================
+           PANDUAN PENGGUNAAN BOT AUTO FISH
+=======================================================
+
+TERIMA KASIH TELAH MEMBELI BOT INI!
+
+[ LANGKAH 1: KONFIGURASI ]
+1. Buka folder 'configs'.
+2. Jika belum ada file config, buat file baru atau edit file contoh yang ada.
+3. Anda bisa menggunakan file 'template.config' sebagai acuan.
+4. Isi data-data penting:
+   - USER_TOKEN: Token Discord Anda (JANGAN BAGIKAN KE SIAPAPUN)
+     (Tutorial cara mencari token: https://www.youtube.com/watch?v=5SRwnLYdpJs)
+   - CHANNEL_ID: ID Channel tempat bot akan memancing
+   - OCR_API_KEY: API Key 2Captcha Anda untuk bypass captcha
+
+[ LANGKAH 2: MENJALANKAN BOT ]
+1. Klik ganda pada file 'autofishbot_v2.3.exe'.
+2. Jika diminta nama config, ketik nama file config Anda (misal: myconfig).
+3. Bot akan mulai berjalan.
+
+[ KONTROL KEYBOARD ]
+P : Pause / Resume
+Q : Quit
+1 : Update Leaderboards
+2 : Show Charms 
+3 : Update Inventory 
+4 : Show Buffs
+
+
+[ DUKUNGAN ]
+Jika ada masalah, hubungi saya di Discord: ilmirevanda
+=======================================================

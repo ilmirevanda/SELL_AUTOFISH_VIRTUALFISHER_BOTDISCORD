@@ -1,0 +1,32 @@
+=======================================================
+           AUTO FISH BOT - USER GUIDE
+=======================================================
+
+THANK YOU FOR PURCHASING THIS BOT!
+
+[ STEP 1: CONFIGURATION ]
+1. Open the 'configs' folder.
+2. If there is no config file, create a new one or edit the existing example.
+3. You can use 'template.config' as a reference.
+4. Fill in the required data:
+   - USER_TOKEN: Your Discord Token (DO NOT SHARE THIS WITH ANYONE)
+     (Tutorial on how to find token: https://www.youtube.com/watch?v=5SRwnLYdpJs)
+   - CHANNEL_ID: The Channel ID where the bot will fish
+   - OCR_API_KEY: Your 2Captcha API Key for captcha bypass
+
+[ STEP 2: RUNNING THE BOT ]
+1. Double-click on 'autofishbot_v2.3.exe'.
+2. If asked for a config name, type your config file name (e.g., myconfig).
+3. The bot will start running.
+
+[ KONTROL KEYBOARD ]
+P : Pause / Resume
+Q : Quit
+1 : Update Leaderboards
+2 : Show Charms 
+3 : Update Inventory 
+4 : Show Buffs
+
+[ SUPPORT ]
+If you encounter any issues, contact me on Discord: ilmirevanda
+=======================================================
