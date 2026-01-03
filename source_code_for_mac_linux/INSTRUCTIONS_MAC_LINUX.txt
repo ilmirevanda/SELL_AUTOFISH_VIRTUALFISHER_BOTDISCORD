@@ -39,7 +39,7 @@ python3 loader.py
 
 ## TROUBLESHOOTING
 
-- **"Bad magic number" or "ImportError"**: This usually means you are not using Python 3.12. Please verify your Python version.
+- **"Bad magic number" or "ImportError"**: This usually means you are not using Python 3.12.9 Please verify your Python version.
 - **"Module not found"**: Ensure you ran the `pip3 install` command successfully.
 
 ---
