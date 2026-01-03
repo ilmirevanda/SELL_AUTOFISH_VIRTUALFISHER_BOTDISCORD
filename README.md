@@ -1,5 +1,5 @@
 **AUTO FISH VIRTUAL FISHER BOT DISCORD**
-## New Display Menu 2.1
+## New Display Menu 3.3
 ![image](faq/images/main_menu.png)
 ## Features
 - Auto Fish 
@@ -40,10 +40,6 @@ auto_daily = True
 auto_buy_baits = False
 auto_sell = True
 auto_update_inventory = False
-
-[MENU]
-compact_mode = False
-refresh_rate = 0.3
 
 [COSMETIC]
 pet = dolphin
