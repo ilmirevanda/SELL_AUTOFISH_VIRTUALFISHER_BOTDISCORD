@@ -1,0 +1,46 @@
+# MAC/LINUX INSTALLATION GUIDE
+
+This bot is distributed as compiled Python bytecode (.pyc) for security reasons.
+Follow these steps to run the bot on your Mac or Linux machine.
+
+## PREREQUISITES
+
+1. **Python 3.12.9**
+   - This bot was compiled using Python 3.12.9 You MUST use Python 3.12.9 to run it.
+   - To check your version, run: `python3 --version`
+   - If you don't have it, install it from https://www.python.org/downloads/
+
+## INSTALLATION
+
+1. Open your Terminal.
+2. Navigate to this folder (source_code_for_mac_linux).
+   ```bash
+   cd /path/to/source_code_for_mac_linux
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip3 install -r requirements.txt
+   ```
+   (If `pip3` is not found, try `pip` or `python3 -m pip`)
+
+## HOW TO RUN
+
+**Option 1: The Easy Way (Double Click)**
+1. Find the file named `start_bot.command`.
+2. Right-click it and select "Open" (this is required the first time to bypass security warnings).
+3. The bot should start in a new terminal window.
+
+**Option 2: Via Terminal**
+To start the bot manually, run the `loader.py` script:
+
+```bash
+python3 loader.py
+```
+
+## TROUBLESHOOTING
+
+- **"Bad magic number" or "ImportError"**: This usually means you are not using Python 3.12.9 Please verify your Python version.
+- **"Module not found"**: Ensure you ran the `pip3 install` command successfully.
+
+---
+Note: The source code is obfuscated/compiled. You cannot edit the core logic files.
