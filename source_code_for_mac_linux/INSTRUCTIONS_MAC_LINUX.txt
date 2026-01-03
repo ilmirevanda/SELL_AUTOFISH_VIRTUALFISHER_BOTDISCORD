@@ -25,7 +25,13 @@ Follow these steps to run the bot on your Mac or Linux machine.
 
 ## HOW TO RUN
 
-To start the bot, run the `loader.py` script:
+**Option 1: The Easy Way (Double Click)**
+1. Find the file named `start_bot.command`.
+2. Right-click it and select "Open" (this is required the first time to bypass security warnings).
+3. The bot should start in a new terminal window.
+
+**Option 2: Via Terminal**
+To start the bot manually, run the `loader.py` script:
 
 ```bash
 python3 loader.py
