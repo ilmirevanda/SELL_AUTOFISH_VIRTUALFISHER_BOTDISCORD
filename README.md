@@ -7,6 +7,9 @@
 - Captcha Bypass
 - Full-featured (auto boosts, auto daily, auto sell, and +)
 - Interactions (buttons and slash commands)
+- **SECURE & PROTECTED CODE (Anti-Tamper)**
+- **Cross-Platform Support (Windows, MacOS, Linux)**
+
 ## Get Guild and Chanel ID
 ![image](faq/images/guild_chanel_id.png)
 ## captcha bypas
@@ -53,4 +56,4 @@ biome = ocean
 - 2captcha API key with a balance of $3
 - Full support if you encounter any problems
 ## Payment only through PayPal
-## Support for Windows 10/11, MacOS, and Linux
+## Support for Windows 10/11, MacOS, and Linux (Secure Build)
