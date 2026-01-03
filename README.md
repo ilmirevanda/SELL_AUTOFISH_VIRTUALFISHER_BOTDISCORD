@@ -56,5 +56,5 @@ biome = ocean
 - Application password
 - 2captcha API key with a balance of $3
 - Full support if you encounter any problems
-## payment only through PayPal
-## suport for windows 10/11
+## Payment only through PayPal
+## Support for Windows 10/11, MacOS, and Linux
