@@ -74,11 +74,6 @@ Contact [DISCORD](https://discord.com/users/632495220034109450).
 
 ## System Requirements
 - Support for Windows 10/11.
-- Support for Linux (Ubuntu/Debian recommended).
-- Support for MacOS.
 
-## Linux Secure Build
-This repository includes a GitHub Action to automatically build a secure, standalone binary for Linux.
-1. Push your code to GitHub.
-2. Go to the "Actions" tab.
-3. Download the `Linux-Secure-Build` artifact.
+
+
